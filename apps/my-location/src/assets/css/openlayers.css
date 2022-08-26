@@ -1,0 +1,25 @@
+.ol-control,
+.ol-control:hover {
+    background-color: transparent !important;
+    padding: unset !important;
+}
+.ol-attribution li {
+    right: 2em;
+    position: relative;
+    font-family: sans-serif;
+}
+
+button {
+    font-size: 20px !important;
+    margin: 5px !important;
+    cursor: pointer !important;
+    height: 36px !important;
+    width: 36px !important;
+    color: white !important;
+    background-color: rgb(209, 139, 86) !important;
+    box-shadow: black 0 3px 3px !important;
+}
+
+button:focus {
+    background-color: rgb(250, 119, 107) !important;
+}
